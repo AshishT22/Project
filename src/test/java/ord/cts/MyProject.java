@@ -6,6 +6,10 @@ public class MyProject {
 	{
 		System.out.println("Creating conflict");
 	}
+	private void studen() {
+	System.out.println("student");
+
+	}
 	
 	public static void main(String[] args) {
 		
